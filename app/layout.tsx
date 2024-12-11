@@ -22,7 +22,7 @@ export default function RootLayout({
           <header className="bg-white border-b z-50 sticky top-0 ">
             <Navbar/>
           </header>
-          <main className="flex-1 bg-blue-100 w-full">
+          <main className="flex-1 bg-gray-200 w-full">
             {children}
           </main>
         </body>
